@@ -14,7 +14,7 @@ class ImageRemoteDataSource implements BaseImageRemoteDataSource {
 
   ImageRemoteDataSource(this._dio);
 
-  final String apiKey = "AIzaSyC61LgDmu799uv6mSoeGwDaK_MlrkHQVLI";
+  final String apiKey = "API_KEY";
 
   @override
   Future<ImageModel> analyzeImage(File file) async {
