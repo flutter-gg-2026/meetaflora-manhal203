@@ -1,0 +1,8 @@
+import 'dart:io';
+import 'package:multiple_result/multiple_result.dart';
+import 'package:plantify_ai/core/errors/failure.dart';
+import 'package:plantify_ai/features/sub/image_ai/domain/entities/image_ai_entity.dart';
+
+abstract class ImageAiRepositoryDomain {
+  Future<Result<ImageAiEntity, Failure>> analyzeImage(File file);
+}
