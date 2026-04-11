@@ -60,7 +60,7 @@ The app consists of two main screens:
 
 | Home Screen | Plant Details |
 |---|---|
-| <img src="assets/screenshots/home.jpg" width="200"/> | <img src="assets/screenshots/details.jpg" width="200"/> |
+| <img src="plantify_ai/assets/screenshots/home.jpg" width="200"/> | <img src="plantify_ai/assets/screenshots/details.jpg" width="200"/> |
 
 ---
 
