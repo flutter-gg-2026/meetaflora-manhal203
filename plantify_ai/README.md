@@ -60,7 +60,7 @@ The app consists of two main screens:
 
 | Home Screen | Plant Details |
 |---|---|
-| <img src="assets/screenshots/home.jpg" width="200"/> | <img src="assets/screenshots/details.jpg" width="200"/> |
+| <img src="plantify_ai/assets/screenshots/home.jpg" width="200"/> | <img src="plantify_ai/assets/screenshots/details.jpg" width="200"/> |
 
 ---
 
@@ -69,6 +69,20 @@ The app consists of two main screens:
 Quick overview of Plantify AI functionality:
 
 (Add your video link here)
+
+---
+
+## 🔑 API Key Setup 
+
+To run the app and enable AI features, you need a Google Gemini API key.
+
+📌 Steps to get your API Key:
+ 1. Go to Google AI Studio:
+https://aistudio.google.com/app/api-keys
+ 2. Sign in with your Google account
+ 3. Click on “Create API Key”
+ 4. Copy the generated key
+ 5. Paste it inside your Flutter project
 
 ---
 

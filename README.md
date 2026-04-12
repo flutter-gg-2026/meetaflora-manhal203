@@ -72,6 +72,20 @@ Quick overview of Plantify AI functionality:
 
 ---
 
+## 🔑 API Key Setup 
+
+To run the app and enable AI features, you need a Google Gemini API key.
+
+📌 Steps to get your API Key:
+ 1. Go to Google AI Studio:
+https://aistudio.google.com/app/api-keys
+ 2. Sign in with your Google account
+ 3. Click on “Create API Key”
+ 4. Copy the generated key
+ 5. Paste it inside your Flutter project
+
+---
+
 ## ⚙️ Setup & Installation
 1. Clone the repository: `git clone https://github.com/flutter-gg-2026/meetaflora-manhal203.git`
 2. Install dependencies: `flutter pub get`
