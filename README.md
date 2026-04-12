@@ -68,7 +68,7 @@ The app consists of two main screens:
 
 Quick overview of Plantify AI functionality:
 
-(Add your video link here)
+https://github.com/user-attachments/assets/recordPlant.mp4
 
 ---
 
